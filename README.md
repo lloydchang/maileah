@@ -12,6 +12,10 @@ Maileah: Email Assistant by day, Heroine by night
 
 Subscribe to Ruby mailing lists via Gmail
 
+    maileah/rails.rb
+
+Subscribe to Ruby on Rails groups via Gmail
+
 ## Contributing
 
 1. Fork it
